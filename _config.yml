@@ -27,8 +27,8 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: Our Philosophy
+  text: Our club combines modern training techniques that have been applied in the sport fencing world with a practiced study of classical manuals written from the 16th century till the 19th century.
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
