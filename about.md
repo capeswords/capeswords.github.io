@@ -1,5 +1,7 @@
 ---
+key: 4
 layout: page
+options: nolanding
 title: About
 permalink: /about/
 ---
