@@ -115,14 +115,23 @@
         <!-- CTA -->
           <section id="cta" class="wrapper style4">
             <div class="inner">
-              <header>
+              <!-- <header>
                 <h2>{{ site.closing-head }}</h2>
-                <p>{{ site.closing-para }}</p>
+                <p>{{ site.closing-para }}</p> -->
+                <img src="{{ site.baseurl }}/images/join.jpg" alt="Join the dark side, we have cookies!"/>
               </header>
-              <ul class="actions vertical">
-                <!-- <li><a href="#" class="button fit special">Activate</a></li> -->
-                <li><a href="{{ '/contact/' | prepend: site.baseurl }}" class="button fit special">Contact</a></li>
-              </ul>
+            </div>
+          </section>
+
+          <section id="greeting" class="wrapper style1 special">
+            <div class="inner">
+              <header class="major">
+                <h2>Keen to join us?</h2>
+                </header>
+                <ul class="actions vertical">
+                  <!-- <li><a href="#" class="button fit special">Activate</a></li> -->
+                  <li><a href="{{ '/contact/' | prepend: site.baseurl }}" class="button fit special">Contact</a></li>
+                </ul>
             </div>
           </section>
 
