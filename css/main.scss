@@ -1131,6 +1131,27 @@ $baseurl: '{{ site.baseurl }}/images';
 
 /* Spotlight */
 
+	.fullpage {
+		.image {
+			@include vendor('order', '1');
+			border-radius: 0;
+			img {
+				border-radius: 0;
+				width: 100%;
+				background-size: 100% 100%;
+			}
+		}
+
+		.content {
+			@include padding(2em, 4em);
+			@include vendor('order', '2');
+		}
+
+		.content-wrap {
+			width: 100%;
+		}
+	}
+
 	.spotlight {
 
    	@include vendor('align-items', 'center');
