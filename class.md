@@ -4,6 +4,7 @@ excerpt: Get in touch
 layout: page
 title: Classes and Fees
 permalink: /classes/
+image: classes.jpg
 ---
 
 # Class Schedule
