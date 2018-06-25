@@ -1,15 +1,3 @@
-# Welcome to Jekyll!
-
-
-# In addition to these settings, there is a file _data/tokens-template.yml
-# that you'll want to customize for your site. It's named 'tokens' because
-# that was it's original purpose, but because tokens.yml is .gitexcluded, it's
-# a good place to store your site-specific data that you'd rather not have
-# forked or cloned. Of course, that means you'd want to back it up elsewhere.
-
-# Also, for your post bylines, add author info for yourself in `_data/authors.yml`.
-# (Using that method instead of site.owner, in case your posts get cloned with your repo.)
-
 # Site settings
 title: Table Mountain Fencing and Hema
 description: Combining the traditions of Sports Fencing and Historical fencing
@@ -37,10 +25,10 @@ closing-para: Please contact us on one of the social media links.
 social:
   #twitter: https://twitter.com/_username_
   #github: https://github.com/_username_
-  facebook-official: https://facebook.com/Table-Mountain-Fencing-Club/
+  # facebook-official: https://facebook.com/Table-Mountain-Fencing-Club/
   facebook-official: https://facebook.com/TableMountainHEMA
   #google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
+  email: tablemountainhema@gmail.com # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
   #youtube-square:
