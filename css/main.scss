@@ -42,6 +42,8 @@ $baseurl: '{{ site.baseurl }}/images';
 		width: device-width;
 	}
 
+	img[alt=Plates] { width: 100%; }
+
 	body {
 		background: _palette(bg);
 
