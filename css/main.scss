@@ -36,13 +36,36 @@ $baseurl: '{{ site.baseurl }}/images';
 		grid: ( gutters: 1.5em )
 	));
 
+/* Markdown */
+
+	img[alt=Plates] { width: 100%; }
+
+	// Adding 'Contents' headline to the TOC
+	#markdown-toc::before {
+		content: "Contents";
+		font-weight: bold;
+	}
+
+
+	// Using numbers instead of bullets for listing
+	// #markdown-toc ul {
+	// 	list-style: decimal;
+	// }
+
+	#markdown-toc {
+		border: 1px solid #aaa;
+		padding: 1.5em;
+		list-style: decimal;
+		display: inline-block;
+	}
+
 /* Basic */
 
 	@-ms-viewport {
 		width: device-width;
 	}
 
-	img[alt=Plates] { width: 100%; }
+
 
 	body {
 		background: _palette(bg);
