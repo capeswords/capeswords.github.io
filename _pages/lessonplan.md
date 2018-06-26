@@ -6,6 +6,8 @@ title: Exercises and Lessons
 permalink: /lessonplan/
 ---
 
+This started as a collection of observation of activities derived from workshops attended and is slowly growing into a collection of summary from Joachim Meyer as well. YMMV.
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
