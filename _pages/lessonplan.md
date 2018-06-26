@@ -375,7 +375,7 @@ To Thrust: go from a #ThurstingGuard to langort
 
 ### The Primary Four Cuts
 
-![Plates]({{ site.baseurl }}/images/dussack_A.jpg)
+![Plates]({{ site.baseurl }}/images/dussack_A.png)
 
 These can be performed from both the right and the left. These can also be performed with: [long edge, short edge]
 
