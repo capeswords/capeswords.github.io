@@ -29,8 +29,6 @@ Key for terms used in the notes:
 
 **activity F1**: One person in the middle, opponents on the outside. Inside man moves aggressively to one of the outside people then switches targets. outside people emphasis is to get into the back of the guy in the middle. Position so can attack from directly behind thier back.
 
---
-
 #### Foot stomper
 
 **activity F2**: 2 people pair up, tap each others foot.
@@ -38,8 +36,6 @@ Key for terms used in the notes:
 ```
 emphasis: do not stomp
 ```
-
---
 
 #### Basics on movement
 
@@ -68,16 +64,12 @@ emphasis: back straight up!
 
 **activity F3**: teacher leads, class follows, make them follow advance, passing, cross, side to side.
 
---
-
 #### Tag Game
 
 **activity F4**: One person is hunter. They nominate a person to be the prey. The hunter must try touch the prey. Once the prey is touched they become the hunter.
 
 **rule**: If anyone crosses the line in between the prey and the hunter, that person becomes the new prey. 
 emphasis: other people must try cross the line 
-
---
 
 #### Head Knee game
 
@@ -122,8 +114,6 @@ emphasis: where the dagger and sword would be placed on your body.
 	* sword on left hip
 ```
 
---
-
 #### Dagger guards, basics:
 
 Right leg forward, dagger in right hand with blade pointing opposite to the thumb (down), 
@@ -145,15 +135,11 @@ emphasis: aim at the opponent!
 
 **activity D1**: go into groups of four or more and face off against each other, using foot work and changing guards and switching opponents. Must move relative to each other. Calm. Focus on getting the pattern right.
 
---
-
 #### Digression: Dagger play
 
 Aim is to demonstrate potential uses.
 
 * A stabs at B from top right, B starting from [middenhut, unterhut, curthut] puts dagger on A's dagger hand wrist to stop attack in a punching attack, can then use dagger to capture wrist, etc. 
-
---
 
 #### Dagger 1 v 1 Aggression
 
@@ -162,8 +148,6 @@ Aim is to demonstrate potential uses.
 ```
 emphasis: move back and forth and side to side.
 ```
-
---
 
 #### Dagger parry with dagger:
 
@@ -178,8 +162,6 @@ emphasis: MOVE
 emphasis: Be careful, and controlled
 ```
 
---
-
 #### Ghost Dagger: Dagger cut, parry, counter attack without dagger:
 
 _Key_: Look for where the opponent is open. Look to the flank, head, arm, elbow
@@ -191,8 +173,6 @@ emphasis: just touch, dont hit
 emphasis: keep the dance going
 emphasis: try to use both hands and directions for the parries
 ```
-
---
 
 #### Dagger play cut, parry, counter with dagger
 
@@ -210,15 +190,11 @@ emphasis: movements: wrenching, punching (back of dagger), stabbing, windscreen 
 
 **activity D8**: A chooses at random left or right, B must correctly intercept and counter. This must be done in the Dance style as above.
 
---
-
 ##### Digression: Techiniques of dagger v dagger can also be unarmed v dagger
 
 ```
 emphasis: can make use of dagger or hand
 ```
-	
---
 
 #### Unarmed versus Dagger: Arm breaker
 
@@ -236,8 +212,6 @@ emphasis: can carry A away instead of lifting leg
 emphasis: right leg behind A's right leg
 ```	
 
---
-
 #### Unarmed versus Dagger: Early block lock and control from below
 
 B stands left foot forward
@@ -252,8 +226,6 @@ emphasis: get biceps under A's shoulder
 emphasis: right arm is the lock
 emphasis: right leg behind A's right leg
 ```
-
---
 
 #### Applied kreutzhut (Cross guard)
 
@@ -273,8 +245,6 @@ emphasis: Works with or without a dagger
 emphasis: Once disengaged find the most approriate attack and do it
 ```
 
---
-
 #### Early block lock and control from above
 
 B stands left foot forward
@@ -286,8 +256,6 @@ emphasis: can disarm and stab A with own weapon
 emphasis: very similar to D10, show comparison
 emphasis: push down on the shoulder with the biceps
 ```
-
---
 
 #### Unarmed V Dagger right hand block
 
@@ -307,8 +275,6 @@ emphasis: twist down
 
 *Optional*: B steps forward taking left arm behind A's head and then bringing B's hand infront and around A's face, B throws A over left leg
 
---
-
 #### Unarmed Disarms
 
 **activity D15**: B in *Kreutzhut*, A stabs from above, B blocks with left hand thumb up and right hand on the back of B's arm, *EP* 
@@ -327,8 +293,6 @@ emphasis: B presses A back so that he is unbalanced
 ```
 
 *Optional*: A stabs from below instead, B take dagger by pushing dagger out against A's thumb
-	
---
 
 #### Unarmed V sudden attack
 
@@ -339,8 +303,6 @@ Both have dagger sheathed
 *Optional*: B locks A's arm to B's chest with left hand holding the wrist, B with twisting from the hip strike at A's elbow with right [hand|arm|elbow]
 
 *Optional*: B lifts both arms above head and strike down at A's wrist, followed with a strike to the face
-
---
 
 #### Half dagger grips
 
@@ -359,8 +321,6 @@ Roger Norling Blade workshop: IMG_4196.MOV -
 Joachim Meyer - The Art of Combat, Book 2
 ```
 
---
-
 ### General approach to Dussack
 
 1. Do not wait in the guards. Aim to attack as quickly as possible in the Before. As it is isn't always possible to be first, always make sure to place yourself in a posture/position/guard such that the opponent can not attack you without incurring damage to himself.
@@ -371,8 +331,6 @@ Joachim Meyer - The Art of Combat, Book 2
 
 4. Given you can deduce his strategy from a guard, never remain static in a guard. Always change, look for position/advantage. This hides your intent and adds to the challenge of attacking you.
 
---
-
 ### How to hold the Dussack
 
 1. Normal Hammer Grip. 
@@ -380,8 +338,6 @@ Joachim Meyer - The Art of Combat, Book 2
 2. Extended Thumb grip. Place the thumb of the sword hand along the back of the handle. This should add to better control.
 
 3. Side Grip. Thumb by the nargel
-
---
 
 ### Stances
 
@@ -414,8 +370,6 @@ To Thrust: go from a #ThurstingGuard to langort
 **Cut 2**: (right middenhut, schnitt, left middenhut, bastey)
 
 **activity U1**: while facing an opponent move between the guards, constantly changing and repositioning. Similar to D2.
-
---
 
 ### The Primary Four Cuts
 
@@ -565,15 +519,11 @@ Stand right foot forward.
 emphasis: Learning how to change from one cut to another
 ```
 
---
-
 ### The Secondary Cuts
 
 #### The Plunge Cut [Sturtzhauw]
 
 This is exectuted with the High or Wrath Cuts.
-
---
 
 ### Pair Exercises
 
@@ -588,8 +538,6 @@ emphasis: Footwork, rotate on the spot, have feet move, TWISTING
 emphasis: be big and exaggerated
 ```
 
---
-
 #### Cut to block to cut
 
 **activity U4**: Advancing: left foot forward, in stier, thrust forward as far as possible without stepping while twisting leading foot and extending fully, then step forward (right) and cut from the right into langort. (Then gather feet (bring left to meet right) with dussack covering head, then cut again.)+ 
@@ -601,8 +549,6 @@ emphasis: be big and exaggerated
 **activity U7**: Pair drill: One performs U4, the other U5. Blades should meet at bogen and cut respectively.
 
 *Optional*: U7 but change over when instructor calls switch instead of waiting till end of space
-
---
 
 #### Flow: Parry Riposte
 
@@ -628,8 +574,6 @@ Optional: use both long and short edges for striking aside
 
 **activity U10**: A cuts from below to above in a constant beat on left and right, B cuts into the sword as a strike over, aiming to cross blades.
 
---
-
 #### Play: Attack Parry riposte
 
 **activity U11**: B cuts from the right at A, A blocks using bogen, counter attacks at B with a cut from the right (oberhau), B strikes A's blade away with a short edge krophau from belowish (functionally the blade is in the same area  in general that the bind was made) and cuts (oberhau) at A
@@ -642,8 +586,6 @@ emphasis: Go from strike to thrust and thrust to strike
 Optional: Attack from left
 
 Optional: turn into a flow drill
-
---
 
 #### Play: Grab and Control
 
@@ -661,8 +603,6 @@ Optional: on Forte opening, push A's blade back and to the left.
 
 *Counter play B*: A grabs B's left arm and pulls it in front of B's body in the way of the sword while performing a low cut of the dussack short edge to the back of B's left ear (head) with weight on front foot.
 
---
-
 ## Post Thoughts
 
-A good martial artist does not become tense, but ready. Not thinking, yet not dreaming. Ready for whatever may come. When the opponent expands, I contract; and when he contracts, I expand. And when there is an opportunity, “I” do not hit, “it” hits all by itself. -- Bruce Lee
+A good martial artist does not become tense, but ready. Not thinking, yet not dreaming. Ready for whatever may come. When the opponent expands, I contract; and when he contracts, I expand. And when there is an opportunity, “I” do not hit, “it” hits all by itself. - Bruce Lee
