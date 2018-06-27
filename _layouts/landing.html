@@ -16,7 +16,7 @@
         <div class="inner">
           <h2>{{ site.title }}</h2>
           <p>{{ site.description }}</p>
-          <p><img style="width: 110px" src="{{ site.baseurl }}/images/logo.png"/></p>
+          <p><img class="logosize" src="{{ site.baseurl }}/images/logo.png"/></p>
         </div>
         {% if site.greeting %}
           <a href="#greeting" class="more scrolly">Continue</a>
@@ -31,6 +31,18 @@
             <header class="major">
               <h2>{% if site.greeting.title %}{{ site.greeting.title }}{% else %}{{ site.title }}{% endif %}</h2>
               <p>{% if site.greeting.text %}{{ site.greeting.text | markdownify }}{% else %}{{ site.description | markdownify }}{% endif %}</p>
+              <div class="row">
+                <div class="column">
+                  <p><img class="logosize" src="{{ site.baseurl }}/images/fencing_logo.png"/></p>
+                  <h3>Adult Sports Fencing</h3>
+                  <p>A brief summary about what sports fencing is</p>
+                </div>
+                <div class="column">
+                  <p><img class="logosize" src="{{ site.baseurl }}/images/logo.png"/></p>
+                  <h3>Historical European Martial Arts</h3>
+                  <p>brief summary of what hema is</p>
+                  </div>
+              </div>
             </header>
           </div>
         </section>
