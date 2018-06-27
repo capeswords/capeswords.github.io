@@ -1,6 +1,6 @@
 ---
 key: 3
-excerpt: Get in touch
+excerpt: 
 layout: page
 title: Classes and Fees
 permalink: /classes/
