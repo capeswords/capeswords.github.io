@@ -22,7 +22,6 @@ closing-head: Keen to join?
 closing-para: Please contact us on one of the social media links.
 
 facebook:publisher: https://facebook.com/TableMountainHEMA
-logo: {{ site.baseurl }}/images/logo.png
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
