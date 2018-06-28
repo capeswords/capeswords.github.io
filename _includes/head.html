@@ -36,22 +36,23 @@
     background-image: url("{{ imageurl }}");
   }
   </style>
-  -->{%
-  endif %}{%
-  if page.style-includes %}{%
-    for include in page.style-includes %}{%
-      assign test1 = include | slice: 0,2 %}{%
-      if test1 == "//" %}
-  <link rel="stylesheet" href="{{ include }}" />{%
-      else %}
-  <link rel="stylesheet" href="{{ include | prepend: site.baseurl }}" />{%
-      endif %}{%
-    endfor %}{%
-  endif %}{%
-  if page.style %}
-<style>
-{{ page.style }}
-</style>{%
-  endif %}
+  -->
+  {% endif %}
+  {% if page.style-includes %}
+    {% for include in page.style-includes %}
+      {% assign test1 = include | slice: 0,2 %}
+      {% if test1 == "//" %}
+        <link rel="stylesheet" href="{{ include }}" />
+      {% else %}
+        <link rel="stylesheet" href="{{ include | prepend: site.baseurl }}" />
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% if page.style %}
+    <style>
+      {{ page.style }}
+    </style>
+  {% endif %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  {% seo %}
 </head>
