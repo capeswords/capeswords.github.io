@@ -16,7 +16,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Our approach
-  text: Our club is a unique blend of two worlds. One half of the club is a adult sports fencing club. The other half is a historical european martial arts club. 
+  text: Our club is a unique blend of two worlds. One half of the club is a modern adult sports fencing club with highly skilled coaches. The other half is a historical european martial arts club with a focus on tradition and big swords :). 
 # - displayed at the bottom
 closing-head: Keen to join?
 closing-para: Please contact us on one of the follow social media links.
