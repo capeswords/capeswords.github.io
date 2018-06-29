@@ -1,6 +1,6 @@
 ---
 key: 3
-excerpt: 
+excerpt: Our classes are on Mondays and Tuesdays in Newlands, Cape Town. 
 layout: page
 title: Classes and Fees
 permalink: /classes/
