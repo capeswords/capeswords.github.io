@@ -2,7 +2,7 @@
 title: Historical European Martial Arts
 priority: 0.7
 layout: page
-options: nolanding
+options: nolanding, nomenu
 permalink: /club/hema
 categories:
   - club

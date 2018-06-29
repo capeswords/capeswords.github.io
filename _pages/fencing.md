@@ -1,7 +1,7 @@
 ---
 key: 4
 layout: page
-options: nolanding
+options: nolanding, nomenu
 title: Sports Fencing
 permalink: /club/fencing
 categories:
