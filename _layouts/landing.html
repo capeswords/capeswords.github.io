@@ -71,6 +71,7 @@
                   <div class="content">
                     <h2>{{ my_page.title }}</h2>
                     <p>{{ my_page.excerpt | markdownify | strip_html | escape_once }}</p>
+                    <p><b>{{ my_page.highlight | markdownify | strip_html | escape_once }}</b></p>
                     <p>Click here for more info.</p>
                   </div>
                 </a></div>
@@ -147,6 +148,11 @@
                 {% endif %}
               {% endif %}
             {% endfor %}
+            <li>
+              <a target="_blank" href="https://facebook.com/Table-Mountain-Fencing-Club/" class="icon fa-facebook-official major style5">
+                <span class="label">Table Mountain Fencing</span>
+              </a>
+            </li>
           </ul>
         </div>
       </section>
