@@ -5,7 +5,7 @@ layout: page
 title: Classes and Fees
 permalink: /classes
 image: classes.jpg
-localimage: class_banner.jpg
+background-image: class_banner.jpg
 ---
 
 * Do not remove this line (it will not be displayed)
