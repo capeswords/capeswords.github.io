@@ -75,5 +75,5 @@ Our club hall is at the 3rd Claremont Scout Hall which is just across the road f
 
 5 Greenford Rd, Newlands, Cape Town, 7700
 
-<iframe width="600" height="450" frameborder="0" style="border:0"
+<iframe width="100%" height="450" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=Scout%20Hall%20greenford%20road%20newlands&key=AIzaSyBx1McfoK9JMyRcbq8VLhMu0S0EnpTjlq4" allowfullscreen></iframe> 
