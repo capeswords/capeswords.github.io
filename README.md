@@ -8,4 +8,6 @@ This is built using Jekyll Pages. See the following link for more info:
 
 And deployed using Github Pages.
 
+Pages are written in Markdown: [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 For more information see website.
