@@ -6,5 +6,5 @@ title: Resources
 permalink: /resources/
 ---
 
-[Exercises and Lessons]({{ site.baseurl }}/lessonplan)
-[Dusack Notes]({{ site.baseurl }}/dusack)
+* [Exercises and Lessons]({{ site.baseurl }}/lessonplan)
+* [Dusack Notes]({{ site.baseurl }}/dusack)
