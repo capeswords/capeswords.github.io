@@ -1,10 +1,20 @@
 ---
 key: 4
-layout: page
+layout: post
 options: nolanding, nomenu
 title: Dusack Notes
+categories: Resources
 permalink: /dusack
+background-image: dussack_A.png
+tags:
+  - dusack
+  - meyer
+  - hema
+  - joachim meyer
+  - art of combat
 ---
+
+## Art of Combat Dusack Summary
 
 These are the summary notes from Art of Combat by Joachim Meyer as of 2 July 2018.
 
