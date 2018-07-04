@@ -3,7 +3,7 @@ key: 4
 layout: post
 options: nolanding, nomenu
 title: Dusack Notes
-categories: Resources
+categories: resources
 permalink: /dusack
 background-image: dussack_A.png
 tags:

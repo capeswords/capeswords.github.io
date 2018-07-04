@@ -3,7 +3,7 @@ key: 4
 layout: page
 options: nolanding
 title: Resources
-permalink: /resources/
+permalink: /resources
 background-image: resources_banner.jpg
 ---
 
