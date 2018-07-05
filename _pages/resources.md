@@ -18,6 +18,12 @@ background-image: resources_banner.jpg
 
 ## Table Mountain
 
+The Meyer Longsword Syllabus
+
+* [Longword Lessons]({{ site.baseurl }}/files/longsword.doc)
+
+The Norling-Meyer Recap Series
+
 * [Exercises and Lessons]({{ site.baseurl }}/lessonplan)
 * [Dusack Notes]({{ site.baseurl }}/dusack)
 
