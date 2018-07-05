@@ -13,8 +13,8 @@ background-image: resources_banner.jpg
 
 ## HEMA Websites
 
-[Hroarr](http://hroarr.com/)
-[Scholar Gladitoria School](http://www.fioredeiliberi.org/)
+* [Hroarr](http://hroarr.com/)
+* [Scholar Gladitoria School](http://www.fioredeiliberi.org/)
 
 ## Table Mountain
 
