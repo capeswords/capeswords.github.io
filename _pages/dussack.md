@@ -1,5 +1,7 @@
 ---
 key: 4
+author: peter
+lastmod: 2018-07-06 12:00:00
 layout: post
 options: nolanding, nomenu
 title: Dusack Notes
