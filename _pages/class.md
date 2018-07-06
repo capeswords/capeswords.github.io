@@ -37,7 +37,7 @@ Individual lessons can be arranged with either David or Glenda on either day, if
 
 ## Fee Structure 2018
 
-The tuition covers the tuition, hall rental and a club contribution for costs such as equipment and other club training gear.
+The tuition covers the hall rental and a club contribution for costs such as equipment and other club training gear.
 
 There are two sets of payments that are required:
 
