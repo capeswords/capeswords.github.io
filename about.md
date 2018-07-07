@@ -19,7 +19,7 @@ On the Historical European Martial Arts side we fight with longswords, dusacks, 
 * The French traditions from the late 18 and early 19 hundreds, specifically Giradi and Angelo
 * The Hungarian Highland tradion of saber and single stick.
 
-Please see the [home page](https://www.tablemountainhema.co.za/) for more information!
+Please see the [home page]({{ site.baseurl }}/index.html) for more information!
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/fencing_logo.png"/>
 
