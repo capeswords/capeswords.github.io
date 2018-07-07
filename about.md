@@ -4,17 +4,22 @@ layout: page
 options: nolanding, nomenu
 title: About
 permalink: /about/
+background-image: banner.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/logo.png"/>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We are a Sports Fencing and Historical European Martial Arts club.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+On the sports fencing side we make use of all three weapons (foil, sabre, épée) to some degree and our focus is on being a place where the love and joy of fencing can flourish with out the need and requirement to be in a high competitive environment. Our focus is on adults whom still enjoy the sport and want to find a place continue pursuing their passion.
 
+On the Historical European Martial Arts side we fight with longswords, dusacks, rapiers, halberds, quarterstaffs and many more. We tend to focus on a number of traditions:
 
-[jekyll-organization]: https://github.com/jekyll
+* The Liechtenauer German tradition of the 16 hundreds, specifically the teachings of Joachim Meyer.
+* The French traditions from the late 18 and early 19 hundreds, specifically Giradi and Angelo
+* The Hungarian Highland tradion of saber and single stick.
+
+Please see the [home page](https://www.tablemountainhema.co.za/) for more information!
+
+<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/fencing_logo.png"/>
+
