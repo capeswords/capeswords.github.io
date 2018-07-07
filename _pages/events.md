@@ -11,7 +11,7 @@ background-image: fencing_banner.jpg
 
 ## Upcoming Events
 
-#### Open Day
+### Open Day
 
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
 
@@ -25,7 +25,7 @@ The Sports fencing side of the open day with give you an introduction into olymp
 
 Contact David to book your spot!
 
-#### League Nights
+### League Nights
 
 At the end of each term we set aside a day to test our skills in a series of league matches. This is a perfect oppurtunity to see how far you have come and to apply your hard won skills against your fellow fencers.
 
