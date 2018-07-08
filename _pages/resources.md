@@ -10,6 +10,7 @@ background-image: resources_banner.jpg
 ## Youtube Channels
 
 * [Scholar Gladitoria](https://www.youtube.com/channel/UCt14YOvYhd5FCGCwcjhrOdA)
+* [Scholars of Alcala](https://www.youtube.com/channel/UCW5qs_Zw967gs-4XNeUkmJw)
 
 ## HEMA Websites
 
