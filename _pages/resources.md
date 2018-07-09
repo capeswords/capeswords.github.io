@@ -11,6 +11,7 @@ background-image: resources_banner.jpg
 
 * [Scholar Gladitoria](https://www.youtube.com/channel/UCt14YOvYhd5FCGCwcjhrOdA)
 * [Scholars of Alcala](https://www.youtube.com/channel/UCW5qs_Zw967gs-4XNeUkmJw)
+* [Björn Rüther](https://www.youtube.com/channel/UCqY4z_JKCBi18SZJV9vWjbA)
 
 ## HEMA Websites
 
