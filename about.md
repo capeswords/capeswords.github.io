@@ -1,7 +1,7 @@
 ---
-key: 4
+key: 7
 layout: page
-options: nolanding, nomenu
+options: nolanding
 title: About
 permalink: /about/
 background-image: banner.jpg
