@@ -1,7 +1,7 @@
 ---
 key: 4
 author: peter
-lastmod: 2018-07-06 12:00:00
+lastmod: 2018-07-09 12:00:00
 layout: post
 options: nolanding, nomenu
 title: Dusack Notes
@@ -17,8 +17,6 @@ tags:
 ---
 
 ## Art of Combat Dusack Summary
-
-These are the summary notes from Art of Combat by Joachim Meyer as of 2 July 2018.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -309,7 +307,7 @@ Excute this in the *Onset*
 * if he parries, then as soon as blades meet turn into a thrust at his face (rotate wrist to the left 180 degrees)
 * if he goes up then with a crooked edge cut upwards through his arm. (keeping wrist in general area, swing sword up and around to perform upwards cut.
 
-### Rose Cut
+### Rose Cut [Rosenhauw]
 
 Force a parry, skip the parry and strike from the other side
 
@@ -377,9 +375,119 @@ Version 2:
 
 This can be done from both sides. The entrance and exit of the stroke are always the same side.
 
-### Knocking Cut
+### Knocking Cut [Bochhauw]
 
+* Both standing in bogen waiting for the other to start the engagement.
+* Sink down on your feet and strike forward against your opponent's dusack so that your hilt hits their chest so that his dusack bounces up to his face.
+* When he steps back, step to the right and cut besides is hilt at his face.
 
+### Change Cut [Wechselhauw]
+
+### Cross Cut [Kreutzhauw]
+
+This is two wrath cuts executed only both downwards lines.
+
+Stand with right foot forward:
+* Cut wrath from right to left
+* Cut wrath from left to right
+
+Learn to do this going forward and backwards. Right foot always leads.
+
+## Making use of the Four Openings
+
+## The Three Types of Cuts
+
+* Provoker
+* Taker
+* Hitter
+
+## Postures and their Devices
+
+## Watch [Wacht]
+
+This is a high guard. You can wait in this guard as you watch your opponent for an opening. Once he has attacked you can overreach your opponent by attacking from above.
+
+Stand Right foot forward, dusack over head with blade hanging behind you pointing backwards, optionally with your left hand just behind your right hand.
+
+Key Techinques:
+
+* To overreach
+* Suppress the cuts
+
+### Overreach an Opponent with a Simultaneous Cut
+
+**Option 1**: In Onset while standing in wacht:
+
+* When opponent cuts [Wrath, Middle, Low] to the outside (to your right)
+* As Opponent extends arm for cut: Step towards your opponent to the left and cut to his outside (from your left) over his right arm to his head
+* Follow through to left middenhut
+* Cut against his arm through his face with [Long edge, Flat Edge] such that the dusack ends up on your right shoulder
+* Cut away with the Cross: Deliver 2 rapid wrath cuts, one from both sides while stepping away.
+
+**Option 2**: In Onset while standing in wacht:
+
+* When opponent cuts to your left
+* Set out with your left foot behind your right such that it is at least 45 degrees to the right, then step the right foot slightly forward
+* Deliver two rapid straight long edged cuts from wrath through his face targeting his hand
+* End in left middenhut, thereby opening your right side and provoking your opponent.
+* Opponent cuts [high, wrath] at your open side
+* Cut away his attack with a rapid upwards from left to right cut
+* The above cut then shoots around your head and ends in right stier, (drill 2) and step to the left
+* Provoke opponent by threatening a thrust to the opponents face over his right arm
+* Pull back blade and cut at opponents face while you take a back step.
+* Cut away with the Cross: Deliver 2 rapid wrath cuts, one from both sides while stepping away.
+
+### The Core Principle
+
+Given: Standing in High Guard (Wacht), and Opponent cuts at the inside or outside.
+
+Do the following:
+
+* Step out away from the Opponent's stroke
+* At the same time High Cut long above their stroke at their head
+* Then return a Middle Cut from the opposite side through their face
+* *Optional* Use other devices as you choose
+* Cut away with the Cross to safety
+
+### You Cut First
+
+If your opponent refuese to cut first and instead stands waiting to parry:
+
+* With right foot step to the left and cut from above at his right arm.
+* When they defend, as soon as they move their dusack back to parry your cut, do not let blades meet, instead do a Fehlhauw (Failer Cut).
+* Then step towards your right and cut through his face
+
+### Provoke to Attack Arm
+
+Aim: to provoke your opponent to raise their right arm so that you may injure it.
+
+* Cut straight from above at their scalp
+* While still in the air turn short edge towards them, as if this is how you intend to strike
+* As they attempt to parry, pull the blade back down towards your left around your head.
+* Your opponent will then try to go from parry to attack and cut from above at you
+* Cut strongly with the flat from your left at his right arm as his blade is cutting down. 
+* Cut away with the Cross: Deliver 2 rapid wrath cuts, one from both sides while stepping away.
+
+### Provoke, Parry, and Counter
+
+If your opponent likes to counter cut, provoke them to cut. Act as if you will cut powerfully, but instead of letting it hit, withdraw the cut into a parry and take the momentum of the engagement.
+
+* Step forward and cut High
+* Before it hits turn the short edge to the left and prepare to make a Low Cut
+* The opponent will attempt to parry and then try to high cut after it fails to make contatct
+* Then you cut in with the Low cut to catch his blade in the air.
+* The opponent will then back away and go up to do a high cut
+* As he does this, rapidly Middle cut from the right through his face, followed with long after (different tempo) Wrath from the left
+
+### Drive the opponent up and down
+
+* Turn right side towards opponent
+* Deliver 2 strong and straight (High cut with a step forward) through his face
+* Opponent will raise thier blade to defend against the attacks
+* Cut Middle from right against left arm
+* Opponent lowers blade to defend
+* Cut Middle from left over his dusack through his face
+* Cut a Wrath from right through his face
 
 --
 
