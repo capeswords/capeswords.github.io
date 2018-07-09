@@ -16,7 +16,7 @@ tags:
   - art of combat
 ---
 
-## Art of Combat Dusack Summary
+## Art of Combat: Dusack
 
 * Do not remove this line (it will not be displayed)
 {:toc}

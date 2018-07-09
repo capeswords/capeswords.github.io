@@ -26,7 +26,8 @@ The Meyer Longsword Syllabus
 
 The Norling-Meyer Recap Series
 
-* [Exercises and Lessons]({{ site.baseurl }}/lessonplan)
+* [Footwork Notes]({{ site.baseurl }}/lessonplan)
+* [Dagger Notes]({{ site.baseurl }}/dagger)
 * [Dusack Notes]({{ site.baseurl }}/dusack)
 
 ## South African HEMA Clubs
