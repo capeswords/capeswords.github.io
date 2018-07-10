@@ -12,6 +12,8 @@ background-image: resources_banner.jpg
 * [Scholar Gladitoria](https://www.youtube.com/channel/UCt14YOvYhd5FCGCwcjhrOdA)
 * [Scholars of Alcala](https://www.youtube.com/channel/UCW5qs_Zw967gs-4XNeUkmJw)
 * [Björn Rüther](https://www.youtube.com/channel/UCqY4z_JKCBi18SZJV9vWjbA)
+* [Skallagrim](https://www.youtube.com/user/SkallagrimNilsson/videos)
+* [Blood and Iron HEMA](https://www.youtube.com/channel/UCsBbd3QJ-IT2g8kSvq3r3RA)
 
 ## HEMA Websites
 
