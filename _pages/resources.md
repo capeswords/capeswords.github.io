@@ -19,6 +19,7 @@ background-image: resources_banner.jpg
 
 * [Hroarr](http://hroarr.com/)
 * [Scholar Gladitoria School](http://www.fioredeiliberi.org/)
+* [Wiktenauer](https://wiktenauer.com/wiki/Main_Page)
 
 ## Table Mountain
 
