@@ -21,6 +21,7 @@ background-image: resources_banner.jpg
 * [Hroarr](http://hroarr.com/)
 * [Scholar Gladitoria School](http://www.fioredeiliberi.org/)
 * [Wiktenauer](https://wiktenauer.com/wiki/Main_Page)
+* [Historical European Martial Arts Coalition](http://www.hemac.org)
 
 ## Table Mountain
 
