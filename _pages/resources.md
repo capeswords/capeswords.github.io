@@ -14,6 +14,7 @@ background-image: resources_banner.jpg
 * [Björn Rüther](https://www.youtube.com/channel/UCqY4z_JKCBi18SZJV9vWjbA)
 * [Skallagrim](https://www.youtube.com/user/SkallagrimNilsson/videos)
 * [Blood and Iron HEMA](https://www.youtube.com/channel/UCsBbd3QJ-IT2g8kSvq3r3RA)
+* [Hroarr Youtube](https://www.youtube.com/user/Hroarr)
 
 ## HEMA Websites
 
