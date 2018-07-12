@@ -37,3 +37,8 @@ The Norling-Meyer Recap Series
 ## South African HEMA Clubs
 
 * [Medieval Armed Combat Society of Pretoria](http://armoury.co.za/)
+
+## Facebook Groups
+
+* [UK HEMA - Historical European Martial Arts in the United Kingdom](https://www.facebook.com/groups/363620243807721/about/)
+* [The HEMA Alliance](https://www.facebook.com/groups/HEMAAlliance/?ref=br_rs)
