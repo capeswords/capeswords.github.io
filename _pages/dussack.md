@@ -383,6 +383,8 @@ This can be done from both sides. The entrance and exit of the stroke are always
 
 ### Change Cut [Wechselhauw]
 
+Simply put this is to change from one side to another. If I understand Meyer correctly, this refers to cutting when changing from guard to guard.
+
 ### Cross Cut [Kreutzhauw]
 
 This is two wrath cuts executed only both downwards lines.
@@ -391,9 +393,54 @@ Stand with right foot forward:
 * Cut wrath from right to left
 * Cut wrath from left to right
 
-Learn to do this going forward and backwards. Right foot always leads.
+The right foot is always forward. Both cuts, one from each side, are to be delivered in the time it takes you to take a single step forward or backwards.
+
+### Observations
+
+Learn to perform the 5 cuts [High, Wrath, Middle, Low, Cross] with a fluid motion, with power and quickly with an extended arm. Avoid holding the sword not fully extended from you. This maks you easier to deceive. Deliever cuts fluid, long and well.
+
+#### Principle of how cuts counter each other
+
+* **High cut**: This counters blows directed at *you* from [below, low, middle, wrath] as long as you target your opponent's dusack with your forte against his right hand
+* **Wrath and Middle cut**: This counters the High cut when you target the dusack and not the opponent.
+* **Two simultaneous cuts each made with a step forward**: These counter each other, both parrying each other
+
+You have the most advantage when your cut is above your Opponents during the cut. Therefore the following rules are to be aimed for:
+
+* Your opponent cuts at you from below, counter with a high cut
+* If he cuts from above, counter with a [Wrath, Middle]
 
 ## Making use of the Four Openings
+
+This concerns how to view the division of the combatant and how this relates to cutting. The dusack relys on being able to see when the oppurtunity to stike exists and how to use it. Therefore aim to do the following: Recognize the opening, then learn how to act against it.
+
+### During the Onset
+
+This is done at the start of the engagement.
+
+* Pay attention from where the opponent cuts
+* then either dodge his blow or send it away
+* then attack him to the same place his sword has come from.
+
+**Note**: Your opponent is most open in the quarter in which his blade has just left.
+
+### Accidental Positioning
+
+When your opponent accidentally holds their weapon too [high, low, out to the side].
+
+* Usually see this during your opponents parrying or positioning.
+* Cut powerful and long at the open side
+* As soon as the blade hits, immediately cut again in the opposite quadrant.
+
+**Note**: Do not attempt this against an intentional misplacement or provocation as you will set yourself up to be countered. Your opponent can step out or overreach you with a simultaneous cut of his own.
+
+*Example*: Opponent in (Wrath Guard?) on the right, you High cut at his head, he steps out to his right with his right foot, and simultaneously cuts High at your head. Here he withdraws the opening, makes you more open by getting you to over extend, which allows him to overreach you and hit you in the counter cut.
+
+### Attack with deception
+
+*Example*: Opponent's dusack is on his right side, Cut powerfully at his left with the intention of it being intercepted by his blade, before blades meet pull back your blade and quickly strike him at his right. The aim is to make him stray with his parry.
+
+As soon as your opponent moves into a quadrant, attack him in the opposite one. Aim not to hit, but to draw him out. Immediately follow up with a cut to another quarter. 
 
 ## The Three Types of Cuts
 
@@ -454,7 +501,7 @@ Do the following:
 If your opponent refuese to cut first and instead stands waiting to parry:
 
 * With right foot step to the left and cut from above at his right arm.
-* When they defend, as soon as they move their dusack back to parry your cut, do not let blades meet, instead do a Fehlhauw (Failer Cut).
+* When they defend, as soon as they move their dusack back to parry your cut, do not let blades meet, instead do a Fehlhauw.
 * Then step towards your right and cut through his face
 
 ### Provoke to Attack Arm
