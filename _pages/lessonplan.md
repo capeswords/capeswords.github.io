@@ -106,6 +106,7 @@ emphasis: twist front foot out to the outside rotating on the front of the foot
 emphasis: rear foot raise the ankle
 emphasis: hand is by cheek and stays at the same height straight forward
 ```
+
 *Follow on*: Punch and step forward. Change punch to a slash.
 
 *Follow on*: Ensure your feet are in line

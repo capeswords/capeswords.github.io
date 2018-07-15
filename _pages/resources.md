@@ -34,6 +34,7 @@ The Norling-Meyer Recap Series
 * [Footwork Notes]({{ site.baseurl }}/lessonplan)
 * [Dagger Notes]({{ site.baseurl }}/dagger)
 * [Dusack Notes]({{ site.baseurl }}/dusack)
+* [Longsword Notes]({{ site.baseurl }}/longsword)
 
 ## South African HEMA Clubs
 
