@@ -13,4 +13,8 @@ categories:
 #lastupdated: 2018-06-29 19:45:14
 ---
 
-this is the hema page
+## What is HEMA?
+
+Historical European Martial Arts, or HEMA for short, involves the study and practice of historical European fighting techniques. As a community, we are bringing back to life the dead arts of the old european masters.
+
+In eastern martial traditions, there are direct lineages of masters - present day masters learned from a master who learned from a master, etc. In Europe, many martial traditions died or evolved into purely sporting forms - sport fencing, boxing, wrestling.

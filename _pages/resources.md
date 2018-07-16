@@ -32,7 +32,7 @@ The Meyer Longsword Syllabus
 
 The Norling-Meyer Recap Series. These are the crib notes made to give the lectures. YMMV.
 
-* [Footwork Notes]({{ site.baseurl }}/lessonplan)
+* [Footwork Notes]({{ site.baseurl }}/footwork)
 * [Dagger Notes]({{ site.baseurl }}/dagger)
 * [Dusack Notes]({{ site.baseurl }}/dusack)
 * [Longsword Notes]({{ site.baseurl }}/longsword)

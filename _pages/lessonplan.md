@@ -3,7 +3,7 @@ key: 4
 layout: page
 options: nolanding, nomenu
 title: Footwork Notes
-permalink: /lessonplan
+permalink: /footwork
 ---
 
 This started as a collection of observation of activities derived from workshops attended and is slowly growing into a collection of summary from Joachim Meyer as well. YMMV.
