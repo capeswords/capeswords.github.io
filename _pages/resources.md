@@ -15,6 +15,7 @@ background-image: resources_banner.jpg
 * [Skallagrim](https://www.youtube.com/user/SkallagrimNilsson/videos)
 * [Blood and Iron HEMA](https://www.youtube.com/channel/UCsBbd3QJ-IT2g8kSvq3r3RA)
 * [Hroarr Youtube](https://www.youtube.com/user/Hroarr)
+* [Sword School](https://www.youtube.com/user/swordschool)
 
 ## HEMA Websites
 
