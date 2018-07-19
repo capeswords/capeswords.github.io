@@ -7,6 +7,9 @@ permalink: /resources
 background-image: resources_banner.jpg
 ---
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ## Youtube Channels
 
 * [Scholar Gladitoria](https://www.youtube.com/channel/UCt14YOvYhd5FCGCwcjhrOdA)
