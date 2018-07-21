@@ -183,4 +183,95 @@ emphasis: Must cross over the line between A and B, then move both hands to the 
 
 **Activity L10**: Flow drill, both perform krumphauw against each other however just out of phase, so one long edges into a short, etc
 
-### End Marker: IMG_4284.MOV
+### Sword Strikes and Defenses
+
+Refer to Dusack > The Secondary Cuts > Observations.
+
+Oberhauw (High cut) counters everything directed at you besides another ober. Zornhauw (Wrath cut) counters an ober directed at you.
+
+Oberhauw is the fastes cut to make
+
+Wrath, Starts from above or wrath guard
+
+Zwerch (not happy with this description):
+
+* Start in Wrath guard on the right. (left foot forward)
+* Opponent cuts wrath at you
+* cut their blade away by bringing the flat of the blade infront of you from right to left.
+* Then keep moving the hilt to the left, and twist your right hand so that thumb is upside down (palm up) and this makes the sword strike from the right.
+
+**Activity L11**: Do [Ober (High), Zorn (Wrath), Zwerch (Thwart)] cut to Langeort from left and right. Then Schrankhut and continue from other side.
+
+Do these in isolation.
+
+*Follow on*: Pair up, both stand square, facing each other, A with thumb on the flat does safe behind the sword, B peforms just one of the above cuts, left and right.
+
+**Activity L12**: Go from Zwerch to Zorn and back, To show striking to the four openings and simultaneously guarding the 4 openings.
+
+**Digression on Meyer Square**: Key points
+
+* If you attack on the right half, your hands must be on the left half (and vice a versa), division across the vertical line.
+* There are exceptions like shieldhauw where you divid on top bottom halfs (attack top with hands in bottom) (horizontal Line)
+* point of the cutting pattern is to remember you are exposing yourself as you are attacking.
+* NB Hands cant be on the horizontal or vertical line, must be in a quadrant that is **not** the one you are attacking.
+
+**Activity L13**: A attacks Zornhauw, B counters schielhauw.
+
+Schielhauw: Left foot forward, as your opponent cuts perform a counter cut, as you cut step to the right, and turn blade so as to hit with short edge. Aim to hit the blade with your forte and your opponent with your foible. 
+
+```
+emphasis: thumb against the flat, can be down with short or long edge. Think krumph from above.
+emphasis: Person doing the Zornhauw must keep where they place there hands in mind, ie, attack right quadrant, hands in left quad.
+```
+
+**Activity L14**: Aim here is to work through the cuts [Ober, Zorn, Krumph, Zwerch, Schielhauw] while working through the Meyer Square standing in place.
+
+*Follow On*: Moving forwards and backwards
+
+**Activity L15**: Experiment time. A cuts at B, B peforms one of the above 5 cuts and then at the moment of bind changes it to a different cut. Do this slowly before going fast. EG: Zorn into Schielhauw. Try do all of the possible combinations.
+
+**Activity L16**: A attacks B in all four openings, in order, (for eg, ul, br, bl, ur), B cuts to (zwerch into ochs, schiel into pflug)
+
+*Follow on 1*: A attacks B while A advances and B retreats, B defends as above, at a moment in time chosen by A, A says "switch" and then A and B switch, B attacks and A defends. Keep the flow going with no pauses going back and forth. Attack must keep the principle of attack structure, ie (high, low, low, high) or (low, high, high, low). 
+
+*Follow on 2*: As above, however instead of attacker saying switch, just stop attacking. The defender must watch for the right moment and then take the initiative to launch the attack.
+
+```
+emphasis: both sides use the same cuts to attack and defend. ie, just the limited sub set discussed so far
+```
+
+*Follow on 3*: From the weapon to the body to the weapon to the body. Both do a dusack flow drill where holding the longsword with one hand, attack the person, then the weapon. use attacks as defences, stick to just the 5 cuts discussed so far.
+
+*Follow on 4*: As above L16-F3, however mid way through the engagement start using both hands.
+
+### Secondary Cuts
+
+**Activity L17**: Windthauw from the left: 
+
+* A cuts zorn at B
+* B Stands right foot forward in olber, cuts up from below left with arms crossed. (hilt on right side, blade on left side) to meet A's blade in a bind
+
+*Optional 1*: move point towards face and thrust in.
+
+*Optional 2*: Step far out to the left and cut long edge at his arm (ober, zorn)
+
+*Optional 3*: then cut to A's left side (not at A) as push, opening A up, followed by an attack to the face from the right. Or anywhere from the right.
+
+*Optional 4*: Rotate the blade up and over and around A's blade to bring B's hilt up with the pommel pointing upwards. Then strike A with pommel. Helps to put fingers under blade? sword rotates around the thumb as placed at the junction of the hilt and the cross guard on the short edge side.
+
+*Follow on*: Windthauw from the right. Basic principle is raise the long edge to the roof. from the right the arms don't cross. Just raise long edge straight up, reverse left hand grip. with hilt to the right, blade to the left. Apply Optionals 1-4.
+
+### Flow games
+
+**Activity L18**: B cuts unter left right in flow, A looks for an oppurtune moment to attack, B cuts with the shortest possible long or short edge cut with the most direct path. Do in a flow. Post counter do a zorn attack in flow.
+
+**Activity L19**: Targeted Sparring. Figure out 2 long range techniques (a particular cut, or thrust, or disengage) and 1 close range. Slow PAT sparring at 30% speed with the aim of using the footwork, and opening ideas as shown here.
+
+### Observations
+
+What to do after the first attack from an opponent, here are some thought to keep in mind. General guiding principles so to speak:
+
+* (Stay in the bind) Simple parry and counter attack from the bind 
+* (Leave the bind) simple parry into bind, disengage and cut around at a different opening
+* (attack the same opening) you attack, he blocks and presses out and you wind and attack the same opening.
+* (Stay in the bind, but attack around the sword)
