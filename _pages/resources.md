@@ -44,7 +44,6 @@ The Norling-Meyer Recap Series. These are the crib notes made to give the lectur
 ## South African HEMA Clubs
 
 * [Medieval Armed Combat Society of Pretoria](http://armoury.co.za/)
-* [Durban Sword and Shield Club](https://www.facebook.com/DurbanSwordandShieldClub/)
 
 ## Facebook Groups
 
