@@ -538,7 +538,7 @@ If your opponent likes to counter cut, provoke them to cut. Act as if you will c
 
 --
 
-## Pair Exercises
+## Norling Workshop
 
 ### Cut Examples
 

@@ -25,7 +25,7 @@ tags:
 Roger Norling Blade Seminars: IMG_4137.MOV - IMG_4194.MOV
 ```
 
-## Paired Exercises
+## Norling Workshop
 
 ### Digression: Dagger Grips
 

@@ -156,7 +156,7 @@ B starts in [Ochs, Einhorn, Wacht, Tag]. Basically doing a Krumphauw followed by
 
 *Follow on*: Apply from both sides against the same attack, experiment to understand application.
 
-**Activity L7**: A performs left right ober attacks, B does short edge long edge.
+**Activity L7**: A performs left right zorn attacks, B does short edge long edge.
 
 **Follow on**: One step out of phase, both short long each other, going for the weapon and the body.
 
