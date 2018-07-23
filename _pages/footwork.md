@@ -25,7 +25,7 @@ Key for terms used in the notes:
 * *[]* - pick one in this list
 * *()* - perform in order
 
-## Paired Exercises
+## Workshops
 
 ### Group of 3 or 4, one in the center
 
