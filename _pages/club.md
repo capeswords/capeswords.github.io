@@ -22,32 +22,33 @@ On the Historical European Martial Arts side we fight with longswords, dusacks, 
 
 Please see the [home page]({{ site.baseurl }}/index.html) for more information!
 
+
 <img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/fencing_logo.png"/>
 
 ## Who we are
 
-<div style="width=100%" class="inner">
-    <div class="row">
-        <div style="width=25%" class="col">
-            <p><img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/></p>
-            <h4>Micheal Beardwood</h4>
-            <p>Micheal thinks fluttershy is best pony</p>
-        </div>
-        <div style="width=25%" class="col">
-            <p><img class="logosize" src="{{ site.baseurl }}/images/profile.png"/></p>
-            <h4>David Wagenfeld</h4>
-            <p>Lorem ipsum</p>
-        </div>
-        <div style="width=25%" class="col">
-            <h4>Glenda Pieters</h4>
-            <p><img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/></p>
-            <p>At age 16 Glenda won the S.A Junior Championships and 3 months later, an International Under 18 competition in Israel - the first and only South African fencer to win an international gold medal ever.  She has participated in other Commonwealth Games and World Championships.</p>
-            <p>She then coached school children in Athlone who excelled beyond their wildest dreams. They qualified and participated in World Championships, Commonwealth Games and the Olympics Through their achievements, they won scholarships to attend Bishops, St. Georges Grammar school and UCT. They made an impact in the community where they became good role models and proved that they could achieve goals that seemed unreachable. Today, she coaches adults fencing in a holistic way where one releases stress, exercises the mind & body and has fun.</p>
-        </div>
-        <div style="width=25%" class="col">
-            <p><img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/></p>
-            <h4>Adam Cousins</h4>
-            <p>Adam is a silly man who likes Pink fluffy unicorns</p>
-        </div>
-    </div>
-</div>
+### Micheal Beardwood
+
+<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/>
+
+Micheal thinks fluttershy is best pony
+
+### David Wagenfeld
+
+<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/>
+
+Lorem ipsum
+
+### Glenda Pieters
+
+<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/>
+
+At age 16 Glenda won the S.A Junior Championships and 3 months later, an International Under 18 competition in Israel - the first and only South African fencer to win an international gold medal ever.  She has participated in other Commonwealth Games and World Championships.
+
+She then coached school children in Athlone who excelled beyond their wildest dreams. They qualified and participated in World Championships, Commonwealth Games and the Olympics Through their achievements, they won scholarships to attend Bishops, St. Georges Grammar school and UCT. They made an impact in the community where they became good role models and proved that they could achieve goals that seemed unreachable. Today, she coaches adults fencing in a holistic way where one releases stress, exercises the mind & body and has fun.
+
+### Adam Cousins
+
+<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/>
+
+Adam is a silly man who likes Pink fluffy unicorns.
