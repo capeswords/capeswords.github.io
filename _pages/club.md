@@ -27,11 +27,11 @@ Please see the [home page]({{ site.baseurl }}/index.html) for more information!
 
 ## Who we are
 
-### Micheal Beardwood
+### Michael Beardwood
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_michael.jpg"/>
 
-Micheal thinks fluttershy is best pony
+Michael thinks fluttershy is best pony
 
 ### David Wagenfeld
 
