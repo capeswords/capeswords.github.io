@@ -29,19 +29,19 @@ Please see the [home page]({{ site.baseurl }}/index.html) for more information!
 
 ### Micheal Beardwood
 
-<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/>
+<img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_michael.jpg"/>
 
 Micheal thinks fluttershy is best pony
 
 ### David Wagenfeld
 
-<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/>
+<img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile.png"/>
 
 Lorem ipsum
 
 ### Glenda Pieters
 
-<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/>
+<img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile.png"/>
 
 At age 16 Glenda won the S.A Junior Championships and 3 months later, an International Under 18 competition in Israel - the first and only South African fencer to win an international gold medal ever.  She has participated in other Commonwealth Games and World Championships.
 
@@ -49,6 +49,6 @@ She then coached school children in Athlone who excelled beyond their wildest dr
 
 ### Adam Cousins
 
-<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/profile.png"/>
+<img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_adam.jpg"/>
 
 Adam is a silly man who likes Pink fluffy unicorns.

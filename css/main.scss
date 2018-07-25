@@ -58,6 +58,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		width: 110px
 	}
 
+	.profilesize {
+		width: 220px
+	}
+
 /* Markdown */
 
 	img[alt=Plates] { width: 100%; }
