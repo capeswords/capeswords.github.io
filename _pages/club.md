@@ -35,13 +35,13 @@ Micheal thinks fluttershy is best pony
 
 ### David Wagenfeld
 
-<img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile.png"/>
+<img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_david.jpg"/>
 
 Lorem ipsum
 
 ### Glenda Pieters
 
-<img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile.png"/>
+<img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_glenda.jpg"/>
 
 At age 16 Glenda won the S.A Junior Championships and 3 months later, an International Under 18 competition in Israel - the first and only South African fencer to win an international gold medal ever.  She has participated in other Commonwealth Games and World Championships.
 
