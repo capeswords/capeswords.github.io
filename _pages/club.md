@@ -51,4 +51,26 @@ She then coached school children in Athlone who excelled beyond their wildest dr
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_adam.jpg"/>
 
-Adam is a silly man who likes Pink fluffy unicorns.
+Before I discover HEMA, there was a sword shaped gap in my universe. My mother
+read me the knightly romances in the cradle and I have merrily played with anything remotely sword shaped whenever possible since.
+
+After a little judo in primary school and a disappointing brush with Kenjitsu
+lead me into the arms of Glenda Pieters and sports fencing. Seeing my love of
+sabre, Glenda selflessly referred me to David Wagenvelt who nurtured my
+passion and showed me the first codex i had ever seen. We shared a dream, and
+so it was that David, his contemporary and lifelong friend Michael Beardwood
+and I resurrected HEMA in Cape Town.
+
+We soon formed a core group and in recent years have grown fast. I am proud to
+say that we have and still do host tournaments and workshops. I have attended
+a workshops by Bob Brooks of Hotspur HEMA, Roger Norling and several by Prof,
+James Roberts of MACS in Pretoria and President of HEMA South Africa, all of
+whom I number amongst my friends. I have taught elementary boxing, Meyer,
+Hector-Meyer, Fiore and Merozzo wrestling and dagger, taught and completed the
+south atlantic longsword syllabus and explored in subsequent lessons aspects of
+Wittenwiller, Ringeck and doebringer's longsword work. I have dabbled in
+hector-meye's halberd and Talhoffers duelling shield and sword.
+
+I work as a personal trainer and sports masseuse. I am 27 and I have no idea
+what my future holds but so long as I hold my lady's love, the esteem of my
+brothers and sisters in arms and a good sword the future looks bright.
