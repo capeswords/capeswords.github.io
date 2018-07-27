@@ -246,6 +246,8 @@ emphasis: Learning how to change from one cut to another
 
 ## The Secondary Cuts
 
+![Plates]({{ site.baseurl }}/images/dusack_B.jpg)
+
 ### The Plunge Cut [Sturtzhauw]
 
 This is exectuted with the High or Wrath Cut and mostly in the *Onset*. 
