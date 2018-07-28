@@ -37,7 +37,11 @@ Michael thinks fluttershy is best pony
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_david.jpg"/>
 
-Lorem ipsum
+His involvement in coaching in South Africa goes back to assisting at Bishops in the late 80's. Thereafter, he was instrumental in establishing a fencing club at Rondebosch Boys High in the early 90's, from which he moved to Fish Hoek Senior High School in 1994. At about this time, his night manager position in a hotel, enabled him to spend his daytime hours coaching either at a school, or doing development work in the New Crossroads township.
+
+Almost 3 years was then spent in the Netherlands. Here, whilst continuing being an ordinary fencer at a Salle, he was "apprenticed" by a fencing master in Amsterdam. Two years were spent learning how to make fencing work in schools, and a model was developed how to apply it in South Africa. The name of that fencing school, from which so much was learnt, was "En Garde".
+
+On arrival back in South Africa, a club was established in Fish Hoek, and for a year he continued with a full-time job. At the beginning of 1999, he took the plunge and decided to follow his passion for the sport. En Garde was born, and initially it was based at Fish Hoek, and looked at really establishing a foothold in this area. This has expanded over the years to include four junior schools, Bishops college, a training club and an adult evening group which became Table Mountain Fencing and HEMA.
 
 ### Glenda Pieters
 
