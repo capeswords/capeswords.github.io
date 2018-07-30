@@ -49,3 +49,7 @@ The Norling-Meyer Recap Series. These are the crib notes made to give the lectur
 
 * [UK HEMA - Historical European Martial Arts in the United Kingdom](https://www.facebook.com/groups/363620243807721/about/)
 * [The HEMA Alliance](https://www.facebook.com/groups/HEMAAlliance/?ref=br_rs)
+
+## Reddit subreddits
+
+* [Western Marital Arts](https://www.reddit.com/r/wma/)
