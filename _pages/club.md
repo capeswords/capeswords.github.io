@@ -8,7 +8,9 @@ image: fencing.jpg
 background-image: fencing.jpg
 ---
 
-<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/logo.png"/>
+## Table Mountain Fencing and HEMA Club
+
+### Background
 
 The clubs have their origins in the Peninsula Sword Fencing Club which was founded in 2002 in order to fill a gap in the fencing scene in Cape Town,  At that time there was no place for former school and university fencers to continue the art.  In those days there were very few HEMA resources available and the club was based on the Olympic sports fencing codes.  There was always an underlying interest in the older, traditional weapons and practitioners of various weapons such as rapier and Viking swords made contact with the club over the years.  Changes in venue and attendance led the club from the SACS scout hall in Newlands to the Rygersdal hall in Rondebosch, then to a shared venue in Kenilworth before moving back to a scout hall, this time in Plumstead.  When that hall became unavailable, the clubs moved back to the original hall in Greenwood Avenue, Newands. Conveniently opposite Forries.  During this time, the availability of both weapons and teaching material for the HEMA disciplines exploded and a new crop of members joined, focusing mainly on different HEMA styles.  The fencing  half of the club continues to flourish with Glenda coaching on Tuesdays while training duties on the HEMA side are split among a larger group of members who have chosen to research and specialise in different aspects of the HEMA disciplines, including backsword, longsword, dusack and military sabre among others.
 
@@ -18,11 +20,9 @@ One of the core principles of the club is that fencing should not only be a good
 
 Of course, all current and former fencers are always welcome to join in, and we occasionally welcome visitors from overseas who want to keep up their practice while in South Africa.  Anybody who is interested in either sports fencing or the HEMA disciplines is welcome to make contact with the club and join in one of our quarterly introduction sessions where a multitude of equipment is available to try out.
 
-<img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/fencing_logo.png"/>
+### Who we are
 
-## Who we are
-
-### Michael Beardwood
+#### Michael Beardwood
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_michael.jpg"/>
 
@@ -34,7 +34,7 @@ Later, Michael's interests broadened into everyone's childhood fantasy and toget
 
 Michael is mainly drawn to the single handed weapons with a particular affinity for military sabre.  His main interests are in the technical aspects of the art as well as the psychological preparation for competition.
 
-### David Wagenfeld
+#### David Wagenfeld
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_david.jpg"/>
 
@@ -44,7 +44,7 @@ David then spent almost 3 years in the Netherlands. Here, whilst continuing bein
 
 On arrival back in South Africa, a club was established in Fish Hoek, and for a year he continued with a full-time job. At the beginning of 1999, he took the plunge and decided to follow his passion for the sport. En Garde was born, and initially it was based at Fish Hoek, and looked at really establishing a foothold in this area. This has expanded over the years to include four junior schools, Bishops college, a training club and an adult evening group which became Table Mountain Fencing and HEMA.
 
-### Glenda Pieters
+#### Glenda Pieters
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_glenda.jpg"/>
 
@@ -52,7 +52,7 @@ At age 16 Glenda won the S.A Junior Championships and 3 months later, an Interna
 
 She then coached school children in Athlone who excelled beyond their wildest dreams. They qualified and participated in World Championships, Commonwealth Games and the Olympics Through their achievements, they won scholarships to attend Bishops, St. Georges Grammar school and UCT. They made an impact in the community where they became good role models and proved that they could achieve goals that seemed unreachable. Today, she coaches adults fencing in a holistic way where one releases stress, exercises the mind & body and has fun.
 
-### Adam Cousins
+#### Adam Cousins
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_adam.jpg"/>
 
