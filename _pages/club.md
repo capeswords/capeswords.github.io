@@ -10,6 +10,9 @@ background-image: fencing.jpg
 
 ## Table Mountain Fencing and HEMA Club
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ### Background
 
 The clubs have their origins in the Peninsula Sword Fencing Club which was founded in 2002 in order to fill a gap in the fencing scene in Cape Town,  At that time there was no place for former school and university fencers to continue the art.  In those days there were very few HEMA resources available and the club was based on the Olympic sports fencing codes.  There was always an underlying interest in the older, traditional weapons and practitioners of various weapons such as rapier and Viking swords made contact with the club over the years.  Changes in venue and attendance led the club from the SACS scout hall in Newlands to the Rygersdal hall in Rondebosch, then to a shared venue in Kenilworth before moving back to a scout hall, this time in Plumstead.  When that hall became unavailable, the clubs moved back to the original hall in Greenwood Avenue, Newands. Conveniently opposite Forries.  During this time, the availability of both weapons and teaching material for the HEMA disciplines exploded and a new crop of members joined, focusing mainly on different HEMA styles.  The fencing  half of the club continues to flourish with Glenda coaching on Tuesdays while training duties on the HEMA side are split among a larger group of members who have chosen to research and specialise in different aspects of the HEMA disciplines, including backsword, longsword, dusack and military sabre among others.
