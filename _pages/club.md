@@ -10,7 +10,13 @@ background-image: fencing.jpg
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/logo.png"/>
 
-Waiting for Michael to send this bit.
+The clubs have their origins in the Peninsula Sword Fencing Club which was founded in 2002 in order to fill a gap in the fencing scene in Cape Town,  At that time there was no place for former school and university fencers to continue the art.  In those days there were very few HEMA resources available and the club was based on the Olympic sports fencing codes.  There was always an underlying interest in the older, traditional weapons and practitioners of various weapons such as rapier and Viking swords made contact with the club over the years.  Changes in venue and attendance led the club from the SACS scout hall in Newlands to the Rygersdal hall in Rondebosch, then to a shared venue in Kenilworth before moving back to a scout hall, this time in Plumstead.  When that hall became unavailable, the clubs moved back to the original hall in Greenwood Avenue, Newands. Conveniently opposite Forries.  During this time, the availability of both weapons and teaching material for the HEMA disciplines exploded and a new crop of members joined, focusing mainly on different HEMA styles.  The fencing  half of the club continues to flourish with Glenda coaching on Tuesdays while training duties on the HEMA side are split among a larger group of members who have chosen to research and specialise in different aspects of the HEMA disciplines, including backsword, longsword, dusack and military sabre among others.
+
+The HEMA side of the club has established a good working relationship with the Medieval Armed Combat Society based in Pretoria.  Our members have attended various workshops with them, and they have come down to visit us for training and competition.  We have also benefited from their organisation of Europe based professional HEMA instructors visiting South Africa and coming down to Cape Town to share their knowledge.  The HEMA philosophy is very much to treat the sessions as a true martial art.  Drills and studying form are integral to the practice sessions, with competition a necessary part of fencing, but not the be all and end all of the club.
+
+One of the core principles of the club is that fencing should not only be a good workout, but it should also be fun.  To this end we encourage all our members to join in at the pub for a beer and a chatter after practice, once a week.  This allows a great spirit of camaraderie to spread, and a number of good friendships have already flourished among members.  There are also semi-regular social activities such as a movie night, a visit to the croquet greens and the annual end of year dinner.
+
+Of course, all current and former fencers are always welcome to join in, and we occasionally welcome visitors from overseas who want to keep up their practice while in South Africa.  Anybody who is interested in either sports fencing or the HEMA disciplines is welcome to make contact with the club and join in one of our quarterly introduction sessions where a multitude of equipment is available to try out.
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/fencing_logo.png"/>
 
@@ -20,7 +26,13 @@ Waiting for Michael to send this bit.
 
 <img style="display:block; margin-left:auto; margin-right:auto" class="profilesize" src="{{ site.baseurl }}/images/profile_michael.jpg"/>
 
-Michael thinks fluttershy is best pony
+Michael has been involved in fencing of one type or another for almost 30 years.  He started Olympic sport style fencing while still at high school and continued on through university and after completing his tertiary studies.
+
+He has wide experience at competitive level having obtained junior and senior provincial colours in Foil, Epee and Sabre.  As an engineer he is interested in the equipment of fencing as well and was the provincial armourer for many years.
+
+Later, Michael's interests broadened into everyone's childhood fantasy and together with David they founded Cape Town's first Historical European Martial Arts school.  Some ten years later, the practice of HEMA has started to flourish with a small but dedicated group of practitioners meeting at the Table Mountain HEMA Club twice a week.
+
+Michael is mainly drawn to the single handed weapons with a particular affinity for military sabre.  His main interests are in the technical aspects of the art as well as the psychological preparation for competition.
 
 ### David Wagenfeld
 
