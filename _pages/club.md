@@ -20,6 +20,15 @@ One of the core principles of the club is that fencing should not only be a good
 
 Of course, all current and former fencers are always welcome to join in, and we occasionally welcome visitors from overseas who want to keep up their practice while in South Africa.  Anybody who is interested in either sports fencing or the HEMA disciplines is welcome to make contact with the club and join in one of our quarterly introduction sessions where a multitude of equipment is available to try out.
 
+<div style="padding-bottom: 1em; display:block; width:100%" class="row">
+    <div style="display:block; width:50%; align=middle; margin-left:auto; margin-right:auto" class="col">
+        <img style="display:block; width:50%; align=middle; margin-left:auto; margin-right:auto" style="display:block; width:50%; align=middle; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/logo.png"/>
+    </div>
+    <div style="display:block; width:50%; align=middle; margin-left:auto; margin-right:auto" class="col">
+        <img style="display:block; width:50%; align=middle; margin-left:auto; margin-right:auto" class="logosize" src="{{ site.baseurl }}/images/fencing_logo.png"/>
+    </div>
+</div>
+
 ### Who we are
 
 #### Michael Beardwood
