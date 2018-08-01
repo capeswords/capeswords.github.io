@@ -20,6 +20,7 @@ background-image: resources_banner.jpg
 * [Hroarr Youtube](https://www.youtube.com/user/Hroarr)
 * [Sword School](https://www.youtube.com/user/swordschool)
 * [GothenburgHFS](https://www.youtube.com/user/GothenburgHFS)
+* [Longpoint](https://www.youtube.com/channel/UCuUsnAyTzKxwXy7aGnVt8tg)
 
 ## HEMA Websites
 
