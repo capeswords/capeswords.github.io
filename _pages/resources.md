@@ -55,3 +55,7 @@ The Norling-Meyer Recap Series. These are the crib notes made to give the lectur
 ## Reddit subreddits
 
 * [Western Marital Arts](https://www.reddit.com/r/wma/)
+
+## HEMA Gear
+
+* [Neyman Fencing](https://neymanfencing.com/)
