@@ -59,3 +59,4 @@ The Norling-Meyer Recap Series. These are the crib notes made to give the lectur
 ## HEMA Gear
 
 * [Neyman Fencing](https://neymanfencing.com/)
+* [The Knight Shop](https://www.thehemashop.com/)
