@@ -61,3 +61,4 @@ The Norling-Meyer Recap Series. These are the crib notes made to give the lectur
 * [Neyman Fencing](https://neymanfencing.com/)
 * [The Knight Shop](https://www.thehemashop.com/)
 * [Regenyei Armory](http://www.regenyei.com/en_index.php)
+* [SPES Historical Fencing Gear](http://histfenc.com/)
