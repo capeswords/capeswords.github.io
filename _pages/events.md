@@ -15,7 +15,7 @@ background-image: fencing_banner.jpg
 
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
 
-The next Open Day is: **Monday 16th July 2018**
+The next Open Day is: **Monday 4th October 2018**
 
 Cost is: **R50.00**
 
@@ -29,11 +29,12 @@ Contact David to book your spot!
 
 At the end of each term we set aside a day to test our skills in a series of league matches. This is a perfect oppurtunity to see how far you have come and to apply your hard won skills against your fellow fencers.
 
-The next League Night is: **Monday 3rd September 2018**
+The next League Night is: **Monday 10th September 2018**
 
 ## Past Events
 
 |Event|When|
 |----|----|
-|League Night|Monday 25th June|
-|Open Day| Monday 7th May|
+|Open Day|16th July|
+|League Night|25th June|
+|Open Day|7th May|
