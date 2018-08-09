@@ -444,13 +444,87 @@ When your opponent accidentally holds their weapon too [high, low, out to the si
 
 As soon as your opponent moves into a quadrant, attack him in the opposite one. Aim not to hit, but to draw him out. Immediately follow up with a cut to another quarter. 
 
+### One attack hits in two
+
+*Example*: Opponent is in bogen but is parrying low (face is visible over his hilt)
+
+1. Cut through his face with a middle cut from right with arm extended close in front of his dusack by his hilt. Turn your body to the to the left after the cut. (this should force him to raise arm in defence)
+2. Cut middle from left underneath his dusack, at his right arm. 
+3. Then cut wrath from right through your opponents face.
+
+*Follow on*: If he is parrying high, Perform the above actions as [2, 1] and then wrath from the left through your opponents face.
+
+*Follow on*: If he is too far to the right, Cut [High, Wrath] to his left, then once he parries, step to the side and cut to the outside over his right arm.
+
+*Follow on*: If too far to the left, cut [High, Wrath] to his right from above, then while backstepping cut to his left
+
 ## The Three Types of Cuts
 
-* Provoker
-* Taker
-* Hitter
+### On Parrying
+
+There are two primary ways of parrying with the dusack
+
+* Slice/Straight parrying: This is from above using a High Cut.
+* Bogen parrying: This is from a Low Cut.
+
+These parrys can be executed in the following ways:
+
+#### Catching / Intercepting the cut
+
+This is to intercept the cut and hold off the opponents cut with [Low, High] cut. *Do not hold the weapon out there to be hit.* Use an extended arm and actively cut against the opponent's blade. Aim to catch his attack at the earliest possible moment. These kind of parries end in Longpoint.
+
+**Examples**
+
+* Opponent cuts [Low, Middle], use Straight parrying, as soon as blade contact occurs, turn your point towards the opponent's face and step out from his cut.
+* Opponent cuts from [High, Wrath], use Bogen parrying, as soon as blade contact occurs, thrust the tip of the blade at his chest.
+
+#### Cutting away the cut
+
+This is also known as Simultaneous Cuts. When one cut is counter cut by another. Note: The countercut always counters the Low cut.
+
+**Examples**
+
+* When your opponent cuts in, you must cut at the same time. Step out to the side and make sure your blade comes in over his.
+* To counter a High cut with a Low Cut: When he attacks High, step out sideways from his attack. Then forcefully cut upwards through his blade. The side angle should enable the low cut to work.
+
+### On Cutting
+
+There are three types of cuts.
+
+* **Provoker**: used to provoke the opponent to cut.
+
+* **Taker or Parry**: used to cut away the opponent's cuts that he has been provoked into striking.
+
+* **Hitter**: after provoking then taking, quickly cut to the nearest opening before the opponent recovers.
+
+**Examples:**
+
+* In Onset when your opponent stands in ready but refuses to strike or to initiate. You then initiate with long extended cuts (1-3) to his openings or through his parrying. Appear to be over commiting. As soon as the opponent moves their blade up to cut in, step sideways out of the way and cut his cut away with a strong cut. Perform 1 to 3 of these powerful cuts against his dusack. Then strike at his nearest opening and then follow up with another attack on his dusack, either through binding or cutting.
+
+* If you can't hit him with provoking cuts without taking damage, then cut at his weapon as close to his hand as possible repeatedly from either side.
+
+**NB**: 
+
+* Basic attack pattern is 3 cuts
+* Any cut that can hit must be followed by a parrying cut
+* Cycle and vary between the three tactics of a cut: [Provoke, Take, Hit]
+* Always vary and change between the cuts: [High, Wrath, Middle, Low]
+* Always aim for one of the 3 attacks to be a hit.
 
 ## Postures and their Devices
+
+It is important to view the postures/guards not as a place to wait for your opponent but rather the beginning and end of a cut or parry. 
+
+*Example*: In bogen, to strike move to [wacht, stier], then to wrath, cut, down through to change, then parry back up into bogen or langort.
+
+Some thoughts about postures:
+
+* When you move into a posture, you can change it before you even get there. You can then turn or send it to another opening.
+* When you pull up from a cut, you can wait there for a moment, changing tempo, to see if you can try to countercut the opponent.
+* Don't wait for longer than it takes to perform a cut.
+* Always move from posture to posture until an opening to attack occurs.
+
+What follows is merely a guideline and set of examples of what moves can be done. Treat this as a lego box that you can rearrange at will.
 
 ## Watch [Wacht]
 
@@ -537,6 +611,8 @@ If your opponent likes to counter cut, provoke them to cut. Act as if you will c
 * Opponent lowers blade to defend
 * Cut Middle from left over his dusack through his face
 * Cut a Wrath from right through his face
+
+## Steer [Stier]
 
 --
 
