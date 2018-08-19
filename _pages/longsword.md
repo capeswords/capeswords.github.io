@@ -217,12 +217,16 @@ Do these in isolation.
 
 **Activity L13**: A attacks Zornhauw, B counters schielhauw.
 
-Schielhauw: Left foot forward, as your opponent cuts perform a counter cut, as you cut step to the right, and turn blade so as to hit with short edge. Aim to hit the blade with your forte and your opponent with your foible. 
+**Schielhauw**: This is a High line cut. Left foot forward, as your opponent cuts perform a counter cut, as you cut step to the right, and turn blade so as to hit with short edge. Aim to hit the blade with your forte and your opponent with your foible. Similar to Krumph except hand and blade are on the same side.
 
 ```
 emphasis: thumb against the flat, can be down with short or long edge. Think krumph from above.
 emphasis: Person doing the Zornhauw must keep where they place there hands in mind, ie, attack right quadrant, hands in left quad.
 ```
+
+*Follow on*: Krumph Schielhauw flow drill
+
+*Follow on*: L12 Zwerch to Ochs, Schiel to Pflug.
 
 **Activity L14**: Aim here is to work through the cuts [Ober, Zorn, Krumph, Zwerch, Schielhauw] while working through the Meyer Square standing in place.
 
@@ -241,6 +245,8 @@ emphasis: both sides use the same cuts to attack and defend. ie, just the limite
 ```
 
 *Follow on 3*: From the weapon to the body to the weapon to the body. Both do a dusack flow drill where holding the longsword with one hand, attack the person, then the weapon. use attacks as defences, stick to just the 5 cuts discussed so far.
+
+*Expanded info*: The exercises are meant to promote free flow between guards, attacks and parries, primarily using "master strikes", i.e. **Zornhau**, **Zwerchhauw**, **Schielhauw**, **Krumphauw** and **Scheitelhauw**. While it may initially seem as if the fencers take turns in attacking and defending, once both are using primarily the master strikes, the difference in actions between the two become very small, and is more down to a very slight difference in who strikes before the other. This difference is often difficult for the viewer to perceive, but is felt by the fencers. Still, make sure to not fall into the trap of becoming static or just exchanging blow/parry, as that is the exact opposite of the goal of the exercise, which is to enable you to strike and defend from any stance against any incoming attack.
 
 *Follow on 4*: As above L16-F3, however mid way through the engagement start using both hands.
 
