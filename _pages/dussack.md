@@ -656,6 +656,14 @@ In the Onset:
 
 *Principle*: If you are in a posture (either waiting or having just arrived due to cutting), and you are then countercut attacked. Thrust forward with the long edge turned towards his stroke to catch it. End the thrust in Langort.
 
+* In Onset when you come into left stier. and the opponent attacks to your left
+* Step out with your right foot to your right
+* As he cuts in thrust at his face with arm extended, turning the long edge towards his incoming cut
+* Aim to parry and thrust at the same time.
+* If he then parries the thrust, go to right bogen
+* Then pull back and perform a Low cut from the left 
+* followed quickly by a right Wrath and step forward
+
 --
 
 ## Norling Workshop
