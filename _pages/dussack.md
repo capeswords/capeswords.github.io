@@ -246,8 +246,6 @@ emphasis: Learning how to change from one cut to another
 
 ## The Secondary Cuts
 
-![Plates]({{ site.baseurl }}/images/dusack_B.jpg)
-
 ### The Plunge Cut [Sturtzhauw]
 
 This is exectuted with the High or Wrath Cut and mostly in the *Onset*. 
@@ -458,9 +456,7 @@ As soon as your opponent moves into a quadrant, attack him in the opposite one. 
 
 *Follow on*: If too far to the left, cut [High, Wrath] to his right from above, then while backstepping cut to his left
 
-## The Three Types of Cuts
-
-### On Parrying
+## The Primary Parrys
 
 There are two primary ways of parrying with the dusack
 
@@ -487,7 +483,7 @@ This is also known as Simultaneous Cuts. When one cut is counter cut by another.
 * When your opponent cuts in, you must cut at the same time. Step out to the side and make sure your blade comes in over his.
 * To counter a High cut with a Low Cut: When he attacks High, step out sideways from his attack. Then forcefully cut upwards through his blade. The side angle should enable the low cut to work.
 
-### On Cutting
+## The Three Types of Cuts
 
 There are three types of cuts.
 
@@ -613,6 +609,52 @@ If your opponent likes to counter cut, provoke them to cut. Act as if you will c
 * Cut a Wrath from right through his face
 
 ## Steer [Stier]
+
+There are many techiniques that can be exectued at the onset in the before. Stand left foot forward, with blade by the face on the right with edge upwards and the point towards the opponent's face. Stand as if you are about to thrust at the opponent.
+
+### Device 1: To overreach the opponent
+
+* Start in right Stier
+* Opponent cuts to your left (from his right) from [above, below]
+* Step (spring) quickly out to the right (his left) and simulatenous ...
+* with extended arms, Cut through his face and against his weapon hand. (point at face, hilt at hand).
+* Aim to keep you weapon over his
+* Perform the following quickly and with strenght
+	* {Drill 2} cut so that blade shoots back up into left stier
+	* {Drill 2} Cut Middle from the left through his face so that blade shoots around into right stier
+* Threaten a thrust (halfway and partial)
+* Cross Cut out
+
+### Device 2: To cut through his arm
+
+In the Onset:
+
+* Wait for the opponent to start trying to cut
+* As he moves, cut [Middle, Low] from the right through the opponents hand
+* As he then cuts, take a large step to the left and cut to your outside over his right arm at his head.
+
+### Device 3: Right Parry and Countercut 
+
+*Version A*:
+
+1. Stand in right Stier (left foot forward)
+* Opponent attacks to your right
+* Step out with back foot to the left and thrust blade forward and downwards into hanging dusack
+* As soon as blades meet in parry, pull blade back up to your left 
+* Then step to the left and cut outside over his right arm at his head. 
+* Exit measure with a Cross Cut
+
+*Version B*:
+
+1. 1 through 3 of version A
+2. Opponent pulls up to cut
+3. Double step to the left and pull dusack up around head and cut Low right crooked (krumph) under his dusack at his forearm.
+4. Let the dusack land on left shoulder
+5. Exit measure with a Cross Cut
+
+### Device 4: How to parry all cuts
+
+*Principle*: If you are in a posture (either waiting or having just arrived due to cutting), and you are then countercut attacked. Thrust forward with the long edge turned towards his stroke to catch it. End the thrust in Langort.
 
 --
 
