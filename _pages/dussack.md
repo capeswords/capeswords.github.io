@@ -56,7 +56,7 @@ Joachim Meyer - The Art of Combat, Book 2
 
 2. Extended Thumb grip. Place the thumb of the sword hand along the back of the handle. This should add to better control.
 
-3. Side Grip. Thumb by the nargel
+3. Side Grip. Thumb by the nagel
 
 --
 
@@ -756,4 +756,4 @@ Optional: on Forte opening, push A's blade back and to the left.
 
 ## Glossary
 
-Onset - before the engagement begins
+*Onset* - before the engagement begins
