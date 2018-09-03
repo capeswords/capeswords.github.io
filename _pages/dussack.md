@@ -28,6 +28,8 @@ Key for terms used in the notes:
 * **EP** - End play. _A temporary place to stop the play to let the students try out the play before continuing._
 * *[]* - pick one in this list
 * *()* - perform in order
+* *A* - Opponent
+* *B* - You
 
 ##### Sources
 
@@ -35,8 +37,6 @@ Key for terms used in the notes:
 Roger Norling Blade workshop: IMG_4196.MOV - 
 Joachim Meyer - The Art of Combat, Book 2
 ```
-
---
 
 ## General approach to Dussack
 
@@ -48,8 +48,6 @@ Joachim Meyer - The Art of Combat, Book 2
 
 4. Given you can deduce his strategy from a guard, never remain static in a guard. Always change, look for position/advantage. This hides your intent and adds to the challenge of attacking you.
 
---
-
 ## How to hold the Dussack
 
 1. Normal Hammer Grip. 
@@ -57,8 +55,6 @@ Joachim Meyer - The Art of Combat, Book 2
 2. Extended Thumb grip. Place the thumb of the sword hand along the back of the handle. This should add to better control.
 
 3. Side Grip. Thumb by the nagel
-
---
 
 ## Stances
 
@@ -91,8 +87,6 @@ o Thrust: go from a #ThurstingGuard to langort
 **Cut 2**: (right middenhut, schnitt, left middenhut, bastey)
 
 **activity U1**: while facing an opponent move between the guards, constantly changing and repositioning. Similar to D2.
-
---
 
 ## The Primary Four Cuts
 
@@ -241,8 +235,6 @@ Stand right foot forward.
 ```
 emphasis: Learning how to change from one cut to another
 ```
-
---
 
 ## The Secondary Cuts
 
@@ -654,7 +646,7 @@ In the Onset:
 
 ### Device 4: How to parry all cuts
 
-*Principle*: If you are in a posture (either waiting or having just arrived due to cutting), and you are then countercut attacked. Thrust forward with the long edge turned towards his stroke to catch it. End the thrust in Langort.
+*Principle*: If you are in Stier (either waiting or having just arrived due to cutting), and you are then countercut attacked. Thrust forward with the long edge turned towards his stroke to catch it. End the thrust in Langort.
 
 * In Onset when you come into left stier. and the opponent attacks to your left
 * Step out with your right foot to your right
@@ -664,7 +656,37 @@ In the Onset:
 * Then pull back and perform a Low cut from the left 
 * followed quickly by a right Wrath and step forward
 
---
+### Device: When the opponent doesn't strike first
+
+In Onset and opponent will not cut or move or attack or initiate. You should watch the opponent for how he holds his hands. Look for:
+
+* hands too high or low
+* hands to far to either side
+
+Then do the following if hands too high:
+
+* Step to the right
+* Low cut through from Right Stier across your opponent below his dusack to hit his face with your blade against his right hand.
+* end in left wrath
+* cut wrath long against his right through his face
+* step right foot forward and low cut ending in a high posture
+* Cross cut at his face and get out.
+
+### Device: Opponent holds their weapon high
+
+Aim: To strike the opponent over their weapon at their face.
+
+* In Onset, Opponent A in wacth, you B in [Right |  Left] Stier
+* Approach with right foot forward and thrust at A's face.
+* A's parries attack with High cut
+* B pulls back dusack back around head and cut over A's dusack through his face.
+* B steps forward and cuts again through high Cut. End in left *Change*
+* B cuts outside A's right arm against A's weapon to preemptively parry. Aim to get in a bind from below.
+* As soon as A draws up to cut, B cut High through A's face and step with their right foot. End feet wide apart and upper body lowered.
+
+### Device: Opponent holds their weapon low
+
+
 
 ## Norling Workshop
 
@@ -679,8 +701,6 @@ emphasis: Footwork, rotate on the spot, have feet move, TWISTING
 emphasis: be big and exaggerated
 ```
 
---
-
 ### Cut to block to cut
 
 **activity U4**: Advancing: left foot forward, in stier, thrust forward as far as possible without stepping while twisting leading foot and extending fully, then step forward (right) and cut from the right into langort. (Then gather feet (bring left to meet right) with dussack covering head, then cut again.)+ 
@@ -692,8 +712,6 @@ emphasis: be big and exaggerated
 **activity U7**: Pair drill: One performs U4, the other U5. Blades should meet at bogen and cut respectively.
 
 *Optional*: U7 but change over when instructor calls switch instead of waiting till end of space
-
---
 
 ### Flow: Parry Riposte
 
@@ -719,8 +737,6 @@ Optional: use both long and short edges for striking aside
 
 **activity U10**: A cuts from below to above in a constant beat on left and right, B cuts into the sword as a strike over, aiming to cross blades.
 
---
-
 ### Play: Attack Parry riposte
 
 **activity U11**: B cuts from the right at A, A blocks using bogen, counter attacks at B with a cut from the right (oberhau), B strikes A's blade away with a short edge krophau from belowish (functionally the blade is in the same area  in general that the bind was made) and cuts (oberhau) at A
@@ -733,8 +749,6 @@ emphasis: Go from strike to thrust and thrust to strike
 Optional: Attack from left
 
 Optional: turn into a flow drill
-
---
 
 ### Play: Grab and Control
 
@@ -751,8 +765,6 @@ Optional: on Forte opening, push A's blade back and to the left.
 *Optional*: thrust instead of strike
 
 *Counter play B*: A grabs B's left arm and pulls it in front of B's body in the way of the sword while performing a low cut of the dussack short edge to the back of B's left ear (head) with weight on front foot.
-
---
 
 ## Glossary
 
