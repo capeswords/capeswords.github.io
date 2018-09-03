@@ -226,6 +226,10 @@ emphasis: Person doing the Zornhauw must keep where they place there hands in mi
 
 *Follow on*: Krumph Schielhauw flow drill
 
+*Follow on*: Pick Two cuts flow drill
+
+*Follow on*: Pick 3 Random cuts per person flow drill
+
 *Follow on*: L12 Zwerch to Ochs, Schiel to Pflug.
 
 **Activity L14**: Aim here is to work through the cuts [Ober, Zorn, Krumph, Zwerch, Schielhauw] while working through the Meyer Square standing in place.
@@ -257,7 +261,7 @@ emphasis: both sides use the same cuts to attack and defend. ie, just the limite
 * A cuts zorn at B
 * B Stands right foot forward in olber, cuts up from below left with arms crossed. (hilt on right side, blade on left side) to meet A's blade in a bind
 
-*Optional 1*: move point towards face and thrust in.
+*Optional 1*: move point towards face, step with left foot forward and thrust in. 
 
 *Optional 2*: Step far out to the left and cut long edge at his arm (ober, zorn)
 
