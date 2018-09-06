@@ -34,9 +34,11 @@ Upcoming League Nights are:
 * **Monday 10th September 2018**
 * **Monday 3rd December 2018**
 
-### Quarterly Workshop
+### Quarterly Workshop and Tournament
 
-A Sword and Buckler workshop by Marius Titus and tournament will be happening on the afternoon of **Saturday 6th October**. All are welcome to join us. We will be hosting this at the [2nd Plumstead Sea Scouts hall](https://goo.gl/maps/RvEz7Fo3J2F2). Please contact David Wagenfeld to book your spot!
+The next workshop is on: **Saturday 6th October**
+
+The workshop will be on Sword and Buckler that will be presented by Marius Titus. This will be followed by a HEMA tournament. All are welcome to join us. We will be hosting this at the [2nd Plumstead Sea Scouts hall](https://goo.gl/maps/RvEz7Fo3J2F2). Please contact David Wagenfeld to book your spot!
 
 Cost is: **R50**
 
