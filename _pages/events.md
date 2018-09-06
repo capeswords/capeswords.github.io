@@ -4,7 +4,7 @@ title: Upcoming Events
 permalink: /events
 layout: page
 excerpt: We have a number of events through out the year. All are welcome to join us on our Open Days to get a taste and sense of what we do. Please contact us to book your place in the Open day session!
-highlight: The Next Open day is on Monday 4th October 2018.
+highlight: The Next Open day is on Monday 8th October 2018. Sword and Buckler Workshop on Saturday 6th October.
 image: events.jpg
 background-image: fencing_banner.jpg
 ---
@@ -29,7 +29,14 @@ Contact David to book your spot!
 
 At the end of each term we set aside a day to test our skills in a series of league matches. This is a perfect oppurtunity to see how far you have come and to apply your hard won skills against your fellow fencers.
 
-The next League Night is: **Monday 10th September 2018**
+Upcoming League Nights are:
+
+* **Monday 10th September 2018**
+* **Monday 3rd December 2018**
+
+### Quarterly Workshop
+
+A Sword and Buckler workshop by Marius Titus and tournament will be happening on the afternoon of Saturday 6th October. We will be hosting this at the [2nd Plumstead Sea Scouts hall](https://goo.gl/maps/RvEz7Fo3J2F2). Please contact David Wagenfeld to book your spot!
 
 ## Past Events
 
