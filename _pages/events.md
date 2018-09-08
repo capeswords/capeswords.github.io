@@ -36,9 +36,11 @@ Upcoming League Nights are:
 
 ### Quarterly Workshop and Tournament
 
-The next workshop is on: **Saturday 6th October**
+The next workshop is on: **Saturday 6th October at 11am**
 
 The workshop will be on Sword and Buckler that will be presented by Marius Titus. This will be followed by a HEMA tournament. All are welcome to join us. We will be hosting this at the [2nd Plumstead Sea Scouts hall](https://goo.gl/maps/RvEz7Fo3J2F2). Please contact David Wagenfeld to book your spot!
+
+If you have never held a sword before, make sure to get there at **11am** as we will help show you the ropes!
 
 Cost is: **R50**
 
