@@ -686,7 +686,12 @@ Aim: To strike the opponent over their weapon at their face.
 
 ### Device: Opponent holds their weapon low
 
+Aim: Two very quick cuts in succesion.
 
+* Opponent A starts in Left Bogen such that B can see your face, You B start in right Stier
+* B step with right foot right and cut Midden from right. Aim to have hilts meet and point cut through his face
+* At moment of blade contact B pulls blade into high left bogen
+* B step with left foot behind right and High Cut through B's face
 
 ## Norling Workshop
 
