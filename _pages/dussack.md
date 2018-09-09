@@ -693,6 +693,10 @@ Aim: Two very quick cuts in succesion.
 * At moment of blade contact B pulls blade into high left bogen
 * B step with left foot behind right and High Cut through B's face
 
+### Device: To goad a countercutting opponent
+
+
+
 ## Norling Workshop
 
 ### Cut Examples
