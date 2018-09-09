@@ -499,6 +499,34 @@ There are three types of cuts.
 * Always vary and change between the cuts: [High, Wrath, Middle, Low]
 * Always aim for one of the 3 attacks to be a hit.
 
+## On Countercutting
+
+There are three ways in which to perform a countercut. 
+
+1. **Opposing Kinetic power**: This is striking in direct opposition to an opponent's attack. This aims to over power the opponent.
+
+2. **Deflecting Power**: Cut at an incoming attack *at an angle* aiming to weaken the incoming attack. Think Zorn against Ober.
+
+3. **Power through Leverage**: Cut so that your strong (forte) is on their weak (foible).
+
+### Opposing Kinetic power
+
+There are two ways to make use of opposing kinetic power. *Properly* or *deceptively*.
+
+**Properly**: Actually the parry the strike. For this to be effective must be done with *equal* or *more power* as the incoming strike. Additionally you should slip back a little and move your head out the way as to regain some time. You are behind tempo in this regard.
+
+**Deceptively**: Aim here is to feint parry and allow the momentum from your opponent to speed your next attack on its way.
+
+### Deflecting Power
+
+You cut at an angle such that the blade alignment protects you from the impact and prevents the sword from taking all of it directly. This is when you aim to parry and hit your opponent at the same time. 
+
+Key here is not to be directly opposing the strike. The Master cuts are built around this concept.
+
+### Power through Leverage
+
+The key cuts for this are: [Zwerchhauw, Schielhauw, Glutzhauw, Kronhauw]. 
+
 ## Postures and their Devices
 
 It is important to view the postures/guards not as a place to wait for your opponent but rather the beginning and end of a cut or parry. 
@@ -695,7 +723,16 @@ Aim: Two very quick cuts in succesion.
 
 ### Device: To goad a countercutting opponent
 
+Aim: This is an example of Provoke, Take, Hit/Parry, Hit/Parry
 
+Opponent is quick to countercut and tends to be extended far out in front.
+
+* You B in Stier, Middle cut from the right through the foible of A's dusack.
+* A counter cuts this with intent to rush
+* B quickly pulls back hilt around head and cut Middle from right. Aim to catch A's blade on your hilt.
+* As soon as blades meet, B steps out left with left foot toward opponent and cut with short edge outside his right arm at his head from the left. (end in left stier)
+* A parries
+* B quickly High cuts strong at A's face while stepping back with left foot.
 
 ## Norling Workshop
 
