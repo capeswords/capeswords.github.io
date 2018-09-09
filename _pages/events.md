@@ -11,6 +11,9 @@ background-image: fencing_banner.jpg
 
 ## Upcoming Events
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ### Open Day
 
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
