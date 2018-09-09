@@ -18,6 +18,8 @@ tags:
 
 ## Art of Combat: Dusack
 
+On reading Meyer, I found him to be mildly challenging to quickly grasp what exactly he was attempting to say. This is my attempt at breaking down his work into bite size, actionable bits. 
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
@@ -733,6 +735,10 @@ Opponent is quick to countercut and tends to be extended far out in front.
 * As soon as blades meet, B steps out left with left foot toward opponent and cut with short edge outside his right arm at his head from the left. (end in left stier)
 * A parries
 * B quickly High cuts strong at A's face while stepping back with left foot.
+
+### Device: Break opponent's parry from above and below
+
+
 
 ## Norling Workshop
 
