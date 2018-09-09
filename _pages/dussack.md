@@ -738,7 +738,27 @@ Opponent is quick to countercut and tends to be extended far out in front.
 
 ### Device: Break opponent's parry from above and below
 
+In Onset and A stands in a posture and refuses to move.
 
+* B in right Stier
+* Threaten a powerful thrust at his left and start to step forward with right foot
+* As soon as A attempts to parry pull back and Low cut with short edge against his left through A's face and finish stepping forward with right foot.
+* *NB* thrust to strike is done in the time of a single step.
+* B then High cuts through A's face long and powerful and steps to the forward right.
+
+**To counter**:
+
+* B moves up to parry A's thrust and realizes A is pulling back for a short low cut
+* B well to the right and High cut strongly against his blade such that  the tip of B's blade points to A's right side. (Bar the low cut)
+* B pulls back away to left shoulder.
+* B then [High, Wrath, Middle] cut from the left, outside A's right arm, at A's head. 
+
+*Follow on*: If Opponent's Low cut succeeds then counter the High
+
+* A succeeds in doing a Low cut against B and proceeds to High Cut
+* B Middle cuts catching on the long edge.
+	* When blades meet, pull dusack to left should and cut at nearest opening. 
+	* **OR** When blades meet, thrust in at A's face, then cut at an upper opening.
 
 ## Norling Workshop
 
