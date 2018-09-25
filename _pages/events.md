@@ -18,7 +18,7 @@ background-image: fencing_banner.jpg
 
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
 
-The next Open Day is: **Monday 4th October 2018**
+The next Open Day is: **Monday 8th October 2018**
 
 Cost is: **R50.00**
 
