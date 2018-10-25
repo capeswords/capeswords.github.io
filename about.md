@@ -17,7 +17,7 @@ On the Historical European Martial Arts side we fight with longswords, dusacks, 
 
 * The Liechtenauer German tradition of the 16 hundreds, specifically the teachings of Joachim Meyer.
 * The French traditions from the late 18 and early 19 hundreds, specifically Giradi and Angelo
-* The Hungarian Highland tradion of saber and single stick.
+* The Hungarian Highland tradition of saber and single stick.
 
 Please see the [home page]({{ site.baseurl }}/index.html) for more information!
 
