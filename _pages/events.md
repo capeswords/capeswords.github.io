@@ -4,7 +4,7 @@ title: Upcoming Events
 permalink: /events
 layout: page
 excerpt: We have a number of events through out the year. All are welcome to join us on our Open Days to get a taste and sense of what we do. Please contact us to book your place in the Open day session!
-highlight: The Next Open day is on Monday 8th October 2018. Sword and Buckler Workshop on Saturday 6th October.
+highlight: The Next Open day is on Monday 4th February 2019. Sword and Buckler Workshop on Saturday 6th October.
 image: events.jpg
 background-image: fencing_banner.jpg
 ---
@@ -18,7 +18,7 @@ background-image: fencing_banner.jpg
 
 Four times a year we host an Open day. Our open days are a perfect time for you to join us! If you want to learn how to swing a sword, you are welcome to come!
 
-The next Open Day is: **Monday 8th October 2018**
+The next Open Day is: **Monday 4th February 2019**
 
 Cost is: **R50.00**
 
@@ -46,11 +46,3 @@ The workshop will be on Sword and Buckler that will be presented by Marius Titus
 If you have never held a sword before, make sure to get there at **11am** as we will help show you the ropes!
 
 Cost is: **R50**
-
-## Past Events
-
-|Event|When|
-|----|----|
-|Open Day|16th July|
-|League Night|25th June|
-|Open Day|7th May|
