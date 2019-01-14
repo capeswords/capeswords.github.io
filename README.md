@@ -11,3 +11,9 @@ And deployed using Github Pages.
 Pages are written in Markdown: [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 For more information see website.
+
+## Running Locally
+
+```
+$ bundle exec jekyll serve
+```
