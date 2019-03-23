@@ -32,3 +32,5 @@ For a more in depth dive into what HEMA is, have a look at Back to the source - 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7DBmNVHTmNs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 For more information, have a look at our [resources]({{ site.baseurl }}/resources) page, which will have links to a number of youtube channels, facebook groups, hema websites and more.
+
+For more information about South African HEMA clubs, have a look at [HEMA in ZA]({{ site.baseurl }}/footwork)
