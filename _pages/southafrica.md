@@ -23,7 +23,7 @@ Cape Town
 Pretoria:
 
 * [Medieval Armed Combat Society of Pretoria](http://armoury.co.za/)
-* [Esprit De Combat](espiritdecombat.wixsite.com/hemasa)
+* [Esprit De Combat](https://espiritdecombat.wixsite.com/hemasa)
 
 ### Full Contact Medieval Combat
 
